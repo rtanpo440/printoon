@@ -1,7 +1,7 @@
 ## VirtualBox の準備
 
 <p align="center">
-    <a href="../usage/index.md">Printoon のインストールと使用</a> →
+    <a href="../usage/">Printoon のインストールと使用</a> →
 </p>
 
 <br>
@@ -175,6 +175,6 @@ USB 接続の Bluetooth アダプタを使用している場合は、右下の U
 <br>
 
 <p align="center">
-    <a href="../usage/index.md">Printoon のインストールと使用</a> →
+    <a href="../usage/">Printoon のインストールと使用</a> →
 </p>
 

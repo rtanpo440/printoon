@@ -1,7 +1,7 @@
 ## Printoon の使用方法
 
 <p align="center">
-    ← <a href="../setup-linux/index.md">VirtualBox の準備</a>
+    ← <a href="../setup-linux/">VirtualBox の準備</a>
 </p>
 
 <br>
